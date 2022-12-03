@@ -5,5 +5,7 @@ Create
 Retrieve
 Update
 Delete
+
 To run project
+
 Python manage.py runserver 
