@@ -6,7 +6,8 @@ Retrieve
 Update
 Delete
 
-pip installdjangoerestframework
+pip install djangoerestframework
+
 To run project
 
 Python manage.py runserver 
